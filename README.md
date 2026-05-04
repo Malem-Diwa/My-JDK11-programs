@@ -58,3 +58,4 @@ I am still fine with Proprietary Software.
 ## Notes
 - In your Manifest file, point it to the class that contains `public static void main(java.lang.String[] args)`
 - If you decide to run the Class directly instead of packaging it first, run the Class that has `public static void main(java.lang.String[] args)`
+- Yes, i know it is already compiled and packaged by me. But those "Build and Run" steps are there if you do not want An easy shortcut.
